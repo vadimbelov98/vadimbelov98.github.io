@@ -1,0 +1,43 @@
+TD {
+                font-family: arial,sans-serif;
+                font-size: 10pt;
+                font-weight: bold;
+                font-style: none;
+                cursor: auto ;
+                color: #FFFFFF;
+                text-transform: none;
+                overflow: visible;
+}
+UL {
+                font-family: arial,sans-serif;
+                font-size: 11pt;
+                font-weight: medium;
+                font-style: none;
+                cursor: auto ;
+                color: #FFFFFF;
+                text-transform: none;
+                overflow: visible;
+}
+
+A:link {
+                font-family: arial,sans-serif;
+                font-size: 12pt;
+                font-weight: bold;
+                font-style: none;
+                cursor: auto ;
+                color: 00CCFF;
+                text-decoration: none;
+                overflow: visible;
+}
+
+A:visited {
+                font-family: arial,sans-serif;
+                font-size: 11pt;
+                font-weight: bold;
+                font-style: none;
+                cursor: auto ;
+                color: #A8F9FF;
+                text-decoration: none;
+                overflow: visible;
+}
+
